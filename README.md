@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kottamrajkumar
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning MERN development
-- 🏣I currently intern at BLUESTOCK FINTECH
+- 🌱 I’m currently MERN development
+- 🏣I currently  SDE intern at BLUESTOCK FINTECH
 - 🤓 Always learning new thhings
 
 
