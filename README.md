@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/kottamrajkumar">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=RAJ+KUMAR+KOTTAM;MERN+Stack+Developer+%7C+AI+Enthusiast;AI+%7C+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=MERN+Stack+Developer+%7C+AI+Enthusiast;AI+%7C+Web+Development" alt="Typing SVG" />
 </a>
 <br/>
 
