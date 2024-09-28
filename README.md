@@ -1,18 +1,3 @@
-<p align="center">
-<a href="https://github.com/kottamrajkumar">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=MERN+Stack+Developer+%7C+AI+Enthusiast;AI+%7C+Web+Development" alt="Typing SVG" />
-</a>
-<br/>
-
-<a href="https://github.com/kottamrajkumar/FRIDAY">
-    <img src="https://img.shields.io/badge/My_Project-FRIDAY-blue?style=flat-square&logo=github">
-</a>
-<a href="mailto:kottamrajkumar202@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
-<br/>
-
 
 * 🎓 Pursuing **B.Tech in AIML** at Malla Reddy Engineering College.
 * 💻 Currently working on **MERN stack** and **AI projects**.
