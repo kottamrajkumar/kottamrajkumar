@@ -2,8 +2,8 @@
 
 
 
-* 🎓 Pursuing **B.Tech in AIML** at Malla Reddy Engineering College.
-* 💻 Currently working on **MERN stack** and **AI projects**.
+* 🎓 Completed **B.Tech in AIML** at Malla Reddy Engineering College.
+* 💻 Currently working on **Data Analyst** and **AI projects**.
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=00DFFF&center=true&vCenter=true&width=600&lines=I'm+Rajkumar+Kottam!;MERN+Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
