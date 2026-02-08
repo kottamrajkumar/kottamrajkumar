@@ -22,21 +22,49 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
+  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+  <!-- AWS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+
+  <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+
+  <!-- Kubernetes -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+
+  <!-- Maven -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+
+  <!-- Jenkins -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original.svg" alt="nexus" width="40" height="40"/>
+
+  <!-- SonarQube -->
+  <img src="https://cdn.simpleicons.org/sonarqube" alt="sonarqube" width="40" height="40"/>
+
+  <!-- Nexus -->
+  <img src="https://cdn.simpleicons.org/sonatype" alt="nexus" width="40" height="40"/>
+
+  <!-- Jira -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+
+  <!-- SQL (MySQL icon used) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+
+  <!-- Power BI -->
+  <img src="https://cdn.simpleicons.org/powerbi" alt="powerbi" width="40" height="40"/>
+
+  <!-- Excel -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="excel" width="40" height="40"/>
+
+  <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
+  <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
+
 
 
 ---
