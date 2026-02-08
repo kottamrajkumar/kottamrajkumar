@@ -3,14 +3,14 @@
 
 
 * 🎓 Completed **B.Tech in AIML** at Malla Reddy Engineering College.
-* 💻 Currently working on **Data Analyst** and **AI projects**.
+* 💻 Currently working on **DEVOPS ENGINEER & AWS** and **AI projects**.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=00DFFF&center=true&vCenter=true&width=600&lines=I'm+Rajkumar+Kottam!;MERN+Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=00DFFF&center=true&vCenter=true&width=600&lines=I'm+Rajkumar+Kottam!;Devops+Engineer+%26+AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
 
-<h3 align="center">A passionate MERN stack developer and aspiring AI engineer</h3>
+<h3 align="center">A passionatea At Data Analyst, Devops Engineer & AWS and aspiring AI engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kottamrajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kottamrajkumar" />
@@ -22,26 +22,31 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nexus/nexus-original.svg" alt="nexus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
+
 
 ---
 
 ### 🚀 About Me:
 
 - 🔭 I recently worked on **[My Voice Assistant Project](https://github.com/kottamrajkumar/FRIDAY)** using Gemini 1.0 Pro LLM API.
-- 🌱 I’m currently learning **MERN stack development and advanced Python** to take my project to the next level.
-- 💬 Ask me about **Java, Data Structures And Algorithms, Web Development, and Machine Learning**.
-- 👯 I’m looking to collaborate on **AI and web development open-source projects**.
+- 🌱 I’m currently Working on **Devops&AWS Projects,Data Analyst and advanced Python With AI** to take my project to the next level.
+- 💬 Ask me about **Python, Data Structures And Algorithms, Devops & AWS and Data Analyst With AI**.
+- 👯 I’m looking to collaborate on **Devops & AWS and Data Analyst With AI projects**.
 - 📫 How to reach me: **kottamrajkumar202@gmail.com**
 - ⚡ Fun fact: *I enjoy chilling out with friends and exploring new tech in my free time!*
 
