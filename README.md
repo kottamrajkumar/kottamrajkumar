@@ -59,11 +59,19 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kottamrajkumar&show_icons=true&theme=radical" alt="kottamrajkumar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kottamrajkumar&show_icons=true&locale=en&layout=compact&theme=radical" alt="kottamrajkumar" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kottamrajkumar&show_icons=true&theme=radical"
+    alt="kottamrajkumar stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kottamrajkumar&layout=compact&theme=radical"
+    alt="top languages"
+    height="165"
+  />
 </p>
 
 ---
