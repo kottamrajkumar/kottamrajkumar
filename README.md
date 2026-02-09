@@ -2,7 +2,7 @@
 
 
 
-* 🎓 Completed **B.Tech in AIML** at Malla Reddy Engineering College in Stream of Artificial intelligence and Machine Learning.
+* 🎓 Completed **B.Tech in AIML** at Malla Reddy Engineering College.
 * 💻 Currently working on **DEVOPS ENGINEER & AWS** and **AI projects**.
 
 <h1 align="center">
