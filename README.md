@@ -10,7 +10,7 @@
 </h1>
 
 
-<h3 align="center">A passionatea At Devops Engineer & AWS and aspiring AI engineer</h3>
+<h3 align="center">A passionatea At Devops Engineer & AWS </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kottamrajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kottamrajkumar" />
@@ -53,9 +53,9 @@
 ### 🚀 About Me:
 
 - 🔭 I recently worked on **[My Voice Assistant Project](https://github.com/kottamrajkumar/FRIDAY)** using Gemini 1.0 Pro LLM API.
-- 🌱 I’m currently Working on **Devops&AWS Projects,Data Analyst and advanced Python With AI** to take my project to the next level.
-- 💬 Ask me about **Python, Data Structures And Algorithms, Devops & AWS and Data Analyst With AI**.
-- 👯 I’m looking to collaborate on **Devops & AWS and Data Analyst With AI projects**.
+- 🌱 I’m currently Working on **Devops&AWS Projects** to take my project to the next level.
+- 💬 Ask me about **Python, Data Structures And Algorithms, Devops & AWS**.
+- 👯 I’m looking to collaborate on **Devops & AWS Projects**.
 - 📫 How to reach me: **kottamrajkumar202@gmail.com**
 - ⚡ Fun fact: *I enjoy chilling out with friends and exploring new tech in my free time!*
 
