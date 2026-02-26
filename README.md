@@ -10,7 +10,7 @@
 </h1>
 
 
-<h3 align="center">A passionatea At Data Analyst, Devops Engineer & AWS and aspiring AI engineer</h3>
+<h3 align="center">A passionatea At Devops Engineer & AWS and aspiring AI engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kottamrajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kottamrajkumar" />
